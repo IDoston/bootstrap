@@ -1,0 +1,14 @@
+@charset"UTF-8";
+@import"./variebles";
+*{
+    box-sizing: border-box;
+}
+.navbar__section__item{
+    list-style: none;
+    &__link{
+        &__tittle{
+            color: #33323D;
+            text-decoration: none;
+        }
+    }
+}

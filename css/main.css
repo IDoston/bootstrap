@@ -1,0 +1,14 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar__section__item {
+  list-style: none;
+}
+
+.navbar__section__item__link__tittle {
+  color: #33323D;
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */

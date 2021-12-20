@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-starter-template",
+  "version": "1.0.0",
+  "description": "this is bootstrap scss starter tamplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDoston/bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDoston/bootstrap/issues"
+  },
+  "homepage": "https://github.com/IDoston/bootstrap#readme",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

@@ -1,9 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,sBAAsB,CAAA;EAClB,UAAU,EAAE,IAAI;CAOnB;;AALQ,AAAD,oCAAS,CAAA;EACL,KAAK,EAAE,OAAO;EACd,eAAe,EAAE,IAAI;CACxB",
+    "mappings": "ACAA,OAAO,CAAC,kBAAI,CACZ,OAAO,CAAC,oBAAI,CACZ,OAAO,CAAC,sBAAI,CDAZ,OAAO,CAAC,kBAAI,CACZ,OAAO,CAAC,oBAAI,CACZ,OAAO,CAAC,sBAAI,CACZ,OAAO,CAAC,gDAAI,CACZ,AAAA,CAAC,AAAA,CACG,UAAU,CAAE,UAAU,CACzB,AACD,AAAA,sBAAsB,AAAA,CAClB,UAAU,CAAE,IAAI,CAOnB,AALQ,AAAD,oCAAS,AAAA,CACL,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,IAAI,CACxB",
     "sources": [
         "../scss/main.scss",
-        "../scss/_variebles.scss"
+        "../scss/_allblock.scss"
     ],
     "names": [],
     "file": "main.css"

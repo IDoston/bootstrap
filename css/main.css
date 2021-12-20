@@ -1,14 +1,2 @@
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-.navbar__section__item {
-  list-style: none;
-}
-
-.navbar__section__item__link__tittle {
-  color: #33323D;
-  text-decoration: none;
-}
+@import url(./_fonts.scss);@import url(./_general.scss);@import url(./_variebles.scss);@import url(./_fonts.scss);@import url(./_general.scss);@import url(./_variebles.scss);@import url(/node_modules/bootstrap/scss/bootstrap.scss);*{-webkit-box-sizing:border-box;box-sizing:border-box}.navbar__section__item{list-style:none}.navbar__section__item__link__tittle{color:#33323D;text-decoration:none}
 /*# sourceMappingURL=main.css.map */
